@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello there 👋
 
-<!--
-**esilverm/esilverm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Evan Silverman** and I use *he/him* pronouns. Here is a little bit about me:
 
-Here are some ideas to get you started:
+- 🎓 I'm a third-year undergraduate student pursuing a bachelors degree in Computer Science at [New York University](https://www.nyu.edu/)
+- 👨‍💻 I consider myself a full-stack engineer and I know how to develop both web and mobile apps
+- 🎵 I am passionate about music and have been singing and playing for piano for as long as I can remember
+- 🗽 Fun Fact: I have seen Saturday Night Live (SNL) in-person 10 times (and counting!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My Skills
+<img src="https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/Typescript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white"/>  <img src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/React_Native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Redux%20-%23764ABC.svg?&style=flat-square&logo=redux&logoColor=white%22" /> <img src="https://img.shields.io/badge/GraphQL%20-%23E10098.svg?&style=flat-square&logo=graphql&logoColor=white%22" /> <img src="https://img.shields.io/badge/Gatsby%20-%23663399.svg?&style=flat-square&logo=Gatsby&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js%20-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white" />  <img src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=flat-square"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white"/>  <img src ="https://img.shields.io/badge/Postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/> <img src ="https://img.shields.io/badge/SQLite-%2307405e.svg?&style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/C%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/DigitalOcean-%230080FF.svg?&style=flat-square&logo=digitalOcean&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel%20-%23000000.svg?&style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
+![Evan's github stats](https://github-readme-stats.vercel.app/api?username=esilverm&count_private=true&show_icons=true) 
