@@ -3,9 +3,8 @@
 I am **Evan Silverman** and I use *he/him* pronouns. Here is a little bit about me:
 
 - 🎓 I'm a third-year undergraduate student pursuing a bachelors degree in Computer Science at [New York University](https://www.nyu.edu/)
-- 👨‍💻 I consider myself a full-stack engineer and I have experience in developing both web and mobile apps
+- 👨‍💻 I am a full-stack engineer, and I have experience in developing both web and mobile apps
 - 🎵 I am passionate about music and have been singing and playing for piano for as long as I can remember
-- 🗽 Fun Fact: I have seen Saturday Night Live (SNL) in-person 10 times (and counting!)
 
 
 ## My Skills
