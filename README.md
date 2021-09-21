@@ -2,9 +2,9 @@
 
 I am **Evan Silverman** and I use *he/him* pronouns. Here is a little bit about me:
 
-- 🎓 I'm a rising fourth-year undergraduate student pursuing a bachelors degree in Computer Science at [New York University](https://www.nyu.edu/)
+- 🎓 I'm a fourth-year undergraduate student pursuing a bachelors degree in Computer Science at [New York University](https://www.nyu.edu/)
 - 👨‍💻 I am a full-stack engineer, and I have experience in developing both web and mobile apps
-- 🚀 I am currently a SWE intern at [Apollo GraphQL](https://www.apollographql.com/) helping build the future of APIs
+- 🚀 I will be returning to [Apollo GraphQL](https://www.apollographql.com/) after graduation to help build tools for the future of APIs
 
 
 ## My Skills
