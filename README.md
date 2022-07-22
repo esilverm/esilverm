@@ -4,7 +4,7 @@ I am **Evan Silverman** and I use *he/him* pronouns. Here is a little bit about 
 
 - 🎓 I recently graduated from [New York University](https://www.nyu.edu/) with a bachelors degree in Computer Science
 - 👨‍💻 I am a full-stack engineer, and I have experience in developing both web and mobile apps
-- 🚀 I am currently working at [Apollo GraphQL](https://www.apollographql.com/) building tools for the future of APIs
+- 🚀 I am currently working at [Apollo GraphQL](https://www.apollographql.com/) building tools to help developers build and develop GraphQL APIs
 
 
 ## My Skills
